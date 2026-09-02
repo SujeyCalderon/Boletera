@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Clase de dispositivo 7 corresponde a impresoras USB estándar -->
+    <usb-device class="7" subclass="1" protocol="2" />
+    <usb-device class="7" subclass="1" protocol="1" />
+    <usb-device class="0" />
+</resources>

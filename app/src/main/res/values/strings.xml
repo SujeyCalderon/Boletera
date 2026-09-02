@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Boletera</string>
+
+    <!-- LOGIN    -->
+    <string name="titulo_login"> Ingresar sesion</string>
+    <string name="lbl_usuario"> Usuario</string>
+    <string name="txt_usuario"> Ingresar usuario</string>
+    <string name="lbl_password"> Contraseña</string>
+    <string name="txt_password"> Ingresar contraseña</string>
+    <string name="btn_ingresar"> Ingresar</string>
+    <string name="lbl_crear_cuenta"> Crear Cuenta</string>
+
+    <!-- COBRO-->
+    <string name="btn_Normal"> Pasaje Normal</string>
+    <string name="btn_Estudiante"> Pasaje Estudiantil</string>
+    <string name="btn_Edad"> Tercera Edad</string>
+
+    <string name="btn_mas">+</string>
+    <string name="btn_menos">-</string>
+
+    <!-- CREAR-->
+    <string name="lbl_nuevo"> NUEVO USUARIO </string>
+
+    <string name="lbl_usuar"> Usuario </string>
+    <string name="lbl_pass"> Contraseña</string>
+
+
+    <string name="btn_crear"> Crear</string>
+    <string name="descripcion_agregar">Descripción de la imagen de agregar</string>
+
+    <string name="btn_parcial">Generar Corte Parcial</string>
+    <string name="btn_total">Generar Corte Total</string>
+
+
+    <string name="lbl_reenvio">Sincronizar Cortes Parciales</string>
+    <string name="lbl_reenvio_total">Sincronizar Corte Total</string>
+
+    <string name="lbl_normal">Normal</string>
+    <string name="lbl_estudiante">Estudiante</string>
+    <string name="lbl_tercera_edad">Tercera Edad</string>
+
+
+
+
+</resources>

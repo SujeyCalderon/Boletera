@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#124e91</color>
+    <color name="colorPrimaryDark">#1A5276</color>
+
+
+    <color name="greenButton">#4CAF50</color> <!-- Verde accesible -->
+
+
+    <color name="teal_700">#2DA765</color>
+    <color name="gray">#888888</color>
+
+    <color name="colorTarifa1">#5CAB18</color> <!-- Verde -->
+    <color name="colorTarifa2">#D6661E</color> <!-- Azul  -->
+    <color name="colorTarifa3">#715723</color> <!-- Cafe -->
+    <color name="colorTarifa4">#257DB8</color> <!-- Naranja-->
+    <color name="colorTarifa5">#008375</color> <!-- Verde azulado medio -->
+    <color name="colorTarifa6">#AF005F</color> <!-- Magenta oscuro -->
+    <color name="colorTarifa7">#7A3E00</color> <!-- Cobre oscuro -->
+    <color name="colorPlusMinus">#9C27B0</color>     <!-- Púrpura -->
+    <color name="purple_500">#6200EE</color> <!-- Color normal del botón -->
+    <color name="purple_700">#3700B3</color> <!-- Color al presionar -->
+    <color name="fondo_cajon">#F8F9FA</color> <!-- Color para fondos de datos -->
+    <color name="fondo_menu">#9ca1a8</color>
+    <color name="fondo_ventas">#E3F2FD</color>        <!-- Azul claro -->
+    <color name="fondo_parciales">#E8F5E9</color>    <!-- Verde claro -->
+    <color name="fondo_totales">#FFF3E0</color>
+
+
+</resources>

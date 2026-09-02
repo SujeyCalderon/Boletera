@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/baseline_house_24"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/nav_cortes"
+        android:icon="@drawable/cortes"
+        android:title="Cortes" />
+    <item
+        android:id="@+id/nav_conexion"
+        android:icon="@drawable/conexion"
+        android:title="Conectar" />
+    <item
+        android:id="@+id/nav_cerrarSesion"
+        android:icon="@drawable/salir"
+        android:title="Cerrar Sesión" />
+</menu>
